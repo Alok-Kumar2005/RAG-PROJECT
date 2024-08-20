@@ -1,0 +1,6 @@
+[2024-08-21 00:28:08,498] 17 root - INFO - data loading started...
+[2024-08-21 00:28:08,519] 20 root - INFO - data loading completed...
+[2024-08-21 00:28:08,520] 142 google.auth.compute_engine._metadata - WARNING - Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: [WinError 10051] A socket operation was attempted to an unreachable network
+[2024-08-21 00:28:09,495] 142 google.auth.compute_engine._metadata - WARNING - Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: [WinError 10051] A socket operation was attempted to an unreachable network
+[2024-08-21 00:28:11,644] 142 google.auth.compute_engine._metadata - WARNING - Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: [WinError 10051] A socket operation was attempted to an unreachable network
+[2024-08-21 00:28:11,644] 338 google.auth._default - WARNING - Authentication failed using Compute Engine authentication due to unavailable metadata server.
